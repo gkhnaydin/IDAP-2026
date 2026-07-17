@@ -1,0 +1,49 @@
+Random seed: 22222
+[IDAP2026] results=/home/mavialp/Downloads/IDAP 2026 GOKHAN/kodlar/base/6tisch-ng-sra/idap2026/results/grid/run_2 deadline_us=3600000000
+[IDAP2026 05:00] joined=6/40  tx=183 rx=157 pdr=85.8%
+[IDAP2026 05:00] aoi(ms) avg=1349.8 min=39.2 max=25072.9
+[IDAP2026 05:00] radio(%) tx=0.06 rx=79.18 total=79.24  cpu=4.86  root_rx=6.61
+[IDAP2026 05:00] rpl dio=142 dis=170 dao=41  parent_chg=17
+[IDAP2026 10:00] joined=6/40  tx=688 rx=638 pdr=92.7%
+[IDAP2026 10:00] aoi(ms) avg=1280.4 min=39.2 max=38241.9
+[IDAP2026 10:00] radio(%) tx=0.15 rx=59.15 total=59.30  cpu=5.32  root_rx=7.39
+[IDAP2026 10:00] rpl dio=350 dis=250 dao=69  parent_chg=30
+[IDAP2026 15:00] joined=6/40  tx=1353 rx=1220 pdr=90.2%
+[IDAP2026 15:00] aoi(ms) avg=1218.4 min=37.5 max=38241.9
+[IDAP2026 15:00] radio(%) tx=0.22 rx=45.69 total=45.91  cpu=6.16  root_rx=8.00
+[IDAP2026 15:00] rpl dio=456 dis=288 dao=78  parent_chg=38
+[IDAP2026 20:00] joined=7/40  tx=2127 rx=1853 pdr=87.1%
+[IDAP2026 20:00] aoi(ms) avg=1248.1 min=34.8 max=38241.9
+[IDAP2026 20:00] radio(%) tx=0.28 rx=35.99 total=36.27  cpu=6.73  root_rx=8.40
+[IDAP2026 20:00] rpl dio=540 dis=299 dao=94  parent_chg=43
+[IDAP2026 25:00] joined=7/40  tx=2917 rx=2505 pdr=85.9%
+[IDAP2026 25:00] aoi(ms) avg=1230.6 min=34.8 max=38241.9
+[IDAP2026 25:00] radio(%) tx=0.31 rx=29.40 total=29.71  cpu=7.08  root_rx=8.72
+[IDAP2026 25:00] rpl dio=565 dis=299 dao=108  parent_chg=43
+[IDAP2026 30:00] joined=7/40  tx=3719 rx=3168 pdr=85.2%
+[IDAP2026 30:00] aoi(ms) avg=1204.2 min=33.1 max=38241.9
+[IDAP2026 30:00] radio(%) tx=0.34 rx=25.05 total=25.38  cpu=7.32  root_rx=8.97
+[IDAP2026 30:00] rpl dio=576 dis=299 dao=115  parent_chg=43
+[IDAP2026 35:00] joined=8/40  tx=4463 rx=3847 pdr=86.2%
+[IDAP2026 35:00] aoi(ms) avg=1212.9 min=33.1 max=38241.9
+[IDAP2026 35:00] radio(%) tx=0.35 rx=22.64 total=22.99  cpu=7.50  root_rx=9.15
+[IDAP2026 35:00] rpl dio=626 dis=315 dao=141  parent_chg=46
+[IDAP2026 40:00] joined=8/40  tx=5218 rx=4602 pdr=88.2%
+[IDAP2026 40:00] aoi(ms) avg=1211.8 min=33.1 max=38241.9
+[IDAP2026 40:00] radio(%) tx=0.37 rx=21.02 total=21.39  cpu=7.66  root_rx=9.32
+[IDAP2026 40:00] rpl dio=676 dis=325 dao=156  parent_chg=49
+[IDAP2026 45:00] joined=8/40  tx=6000 rx=5383 pdr=89.7%
+[IDAP2026 45:00] aoi(ms) avg=1219.6 min=33.1 max=38241.9
+[IDAP2026 45:00] radio(%) tx=0.38 rx=19.34 total=19.72  cpu=7.81  root_rx=9.45
+[IDAP2026 45:00] rpl dio=720 dis=329 dao=166  parent_chg=52
+[IDAP2026 50:00] joined=8/40  tx=6804 rx=6181 pdr=90.8%
+[IDAP2026 50:00] aoi(ms) avg=1223.7 min=33.1 max=38241.9
+[IDAP2026 50:00] radio(%) tx=0.40 rx=17.82 total=18.22  cpu=7.98  root_rx=9.56
+[IDAP2026 50:00] rpl dio=731 dis=329 dao=175  parent_chg=52
+[IDAP2026 55:00] joined=8/40  tx=7601 rx=6982 pdr=91.9%
+[IDAP2026 55:00] aoi(ms) avg=1224.5 min=33.1 max=38241.9
+[IDAP2026 55:00] radio(%) tx=0.41 rx=16.58 total=16.99  cpu=8.10  root_rx=9.66
+[IDAP2026 55:00] rpl dio=741 dis=329 dao=185  parent_chg=52
+[IDAP2026] finish pdr=92.63% avgLat=1223.85ms radio_total=15.97% root_rx=9.74%
+TEST OK
+Test ended at simulation time: 3600000595
