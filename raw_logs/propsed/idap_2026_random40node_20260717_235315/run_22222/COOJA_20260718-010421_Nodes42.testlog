@@ -1,0 +1,182 @@
+Random seed: 22222
+
+=========================================
+IDAP 2026 - Proposed (Gossip + MDC)
+Total motes    : 42 (1 root + 40 clients + 1 MDC)
+MDC id         : 42
+Total duration : 3600 s
+Results dir    : /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/idap2026/results/idap_2026_random40node_20260717_235315/run_22222
+=========================================
+
+
+===== PERIODIC REPORT at 300.0 s =====
+TSCH joined    : 17 / 41 nodes
+Packets        : 169 sent, 72 received (PDR = 42.60 %)
+AoI at root    : mean = 6613.9 +/- 12410.7 ms   min = 74.4   max = 48272.3 ms
+AoI per source : covered = 11/41   best_src = node 6 (1228.1 ms)   worst_src = node 9 (39348.9 ms)
+Radio (avg)    : total = 79.938 %   tx = 0.061 %   rx = 79.877 %
+Root radio     : total = 6.319 %   tx = 0.457 %   rx = 5.863 %  (funneling proxy)
+CPU / LPM      : cpu = 4.929 %   lpm = 95.071 %
+RPL control    : DIO = 136   DIS = 168   DAO = 33   parent_chg = 16
+Gossip         : tx = 183   rx = 332   observers = 40/41
+eta_sc         : mean = 23.2 %   min-client = 2.4 %   max-client = 41.5 %  (single-contact coverage per typical client)
+MDC            : joined_tsch = no   contacts = 0   first_contact_ms = n/a   known = 0/41 (0.0 %)
+=====
+
+===== PERIODIC REPORT at 600.0 s =====
+TSCH joined    : 30 / 41 nodes
+Packets        : 678 sent, 80 received (PDR = 11.80 %)
+AoI at root    : mean = 6153.5 +/- 11849.0 ms   min = 74.4   max = 48272.3 ms
+AoI per source : covered = 12/41   best_src = node 6 (1228.1 ms)   worst_src = node 9 (39348.9 ms)
+Radio (avg)    : total = 60.285 %   tx = 0.135 %   rx = 60.150 %
+Root radio     : total = 7.219 %   tx = 0.508 %   rx = 6.711 %  (funneling proxy)
+CPU / LPM      : cpu = 5.292 %   lpm = 94.708 %
+RPL control    : DIO = 339   DIS = 248   DAO = 47   parent_chg = 30
+Gossip         : tx = 407   rx = 738   observers = 40/41
+eta_sc         : mean = 28.9 %   min-client = 2.4 %   max-client = 46.3 %  (single-contact coverage per typical client)
+MDC            : joined_tsch = no   contacts = 0   first_contact_ms = n/a   known = 0/41 (0.0 %)
+=====
+
+===== PERIODIC REPORT at 900.0 s =====
+TSCH joined    : 33 / 41 nodes
+Packets        : 1281 sent, 80 received (PDR = 6.25 %)
+AoI at root    : mean = 6153.5 +/- 11849.0 ms   min = 74.4   max = 48272.3 ms
+AoI per source : covered = 12/41   best_src = node 6 (1228.1 ms)   worst_src = node 9 (39348.9 ms)
+Radio (avg)    : total = 49.234 %   tx = 0.194 %   rx = 49.039 %
+Root radio     : total = 7.845 %   tx = 0.583 %   rx = 7.262 %  (funneling proxy)
+CPU / LPM      : cpu = 5.991 %   lpm = 94.009 %
+RPL control    : DIO = 399   DIS = 298   DAO = 51   parent_chg = 36
+Gossip         : tx = 630   rx = 1271   observers = 40/41
+eta_sc         : mean = 30.1 %   min-client = 2.4 %   max-client = 46.3 %  (single-contact coverage per typical client)
+MDC            : joined_tsch = no   contacts = 0   first_contact_ms = n/a   known = 0/41 (0.0 %)
+=====
+
+===== PERIODIC REPORT at 1200.0 s =====
+TSCH joined    : 38 / 41 nodes
+Packets        : 1966 sent, 80 received (PDR = 4.07 %)
+AoI at root    : mean = 6153.5 +/- 11849.0 ms   min = 74.4   max = 48272.3 ms
+AoI per source : covered = 12/41   best_src = node 6 (1228.1 ms)   worst_src = node 9 (39348.9 ms)
+Radio (avg)    : total = 42.122 %   tx = 0.236 %   rx = 41.886 %
+Root radio     : total = 8.285 %   tx = 0.632 %   rx = 7.654 %  (funneling proxy)
+CPU / LPM      : cpu = 6.532 %   lpm = 93.468 %
+RPL control    : DIO = 483   DIS = 328   DAO = 63   parent_chg = 44
+Gossip         : tx = 854   rx = 1819   observers = 40/41
+eta_sc         : mean = 30.5 %   min-client = 2.4 %   max-client = 51.2 %  (single-contact coverage per typical client)
+MDC            : joined_tsch = no   contacts = 0   first_contact_ms = n/a   known = 0/41 (0.0 %)
+=====
+
+===== PERIODIC REPORT at 1500.0 s =====
+TSCH joined    : 39 / 41 nodes
+Packets        : 2724 sent, 80 received (PDR = 2.94 %)
+AoI at root    : mean = 6153.5 +/- 11849.0 ms   min = 74.4   max = 48272.3 ms
+AoI per source : covered = 12/41   best_src = node 6 (1228.1 ms)   worst_src = node 9 (39348.9 ms)
+Radio (avg)    : total = 35.545 %   tx = 0.272 %   rx = 35.274 %
+Root radio     : total = 8.683 %   tx = 0.671 %   rx = 8.012 %  (funneling proxy)
+CPU / LPM      : cpu = 6.947 %   lpm = 93.053 %
+RPL control    : DIO = 531   DIS = 338   DAO = 78   parent_chg = 44
+Gossip         : tx = 1066   rx = 2344   observers = 40/41
+eta_sc         : mean = 30.5 %   min-client = 2.4 %   max-client = 51.2 %  (single-contact coverage per typical client)
+MDC            : joined_tsch = yes   contacts = 10   first_contact_ms = 1358171.9   known = 12/41 (29.3 %)
+=====
+
+===== PERIODIC REPORT at 1800.0 s =====
+TSCH joined    : 40 / 41 nodes
+Packets        : 3499 sent, 80 received (PDR = 2.29 %)
+AoI at root    : mean = 6153.5 +/- 11849.0 ms   min = 74.4   max = 48272.3 ms
+AoI per source : covered = 12/41   best_src = node 6 (1228.1 ms)   worst_src = node 9 (39348.9 ms)
+Radio (avg)    : total = 30.829 %   tx = 0.298 %   rx = 30.531 %
+Root radio     : total = 8.927 %   tx = 0.699 %   rx = 8.228 %  (funneling proxy)
+CPU / LPM      : cpu = 7.256 %   lpm = 92.744 %
+RPL control    : DIO = 567   DIS = 344   DAO = 89   parent_chg = 45
+Gossip         : tx = 1267   rx = 2894   observers = 40/41
+eta_sc         : mean = 30.5 %   min-client = 2.4 %   max-client = 51.2 %  (single-contact coverage per typical client)
+MDC            : joined_tsch = yes   contacts = 15   first_contact_ms = 1358171.9   known = 16/41 (39.0 %)
+=====
+
+===== PERIODIC REPORT at 2100.0 s =====
+TSCH joined    : 40 / 41 nodes
+Packets        : 4282 sent, 80 received (PDR = 1.87 %)
+AoI at root    : mean = 6153.5 +/- 11849.0 ms   min = 74.4   max = 48272.3 ms
+AoI per source : covered = 12/41   best_src = node 6 (1228.1 ms)   worst_src = node 9 (39348.9 ms)
+Radio (avg)    : total = 27.532 %   tx = 0.316 %   rx = 27.215 %
+Root radio     : total = 9.103 %   tx = 0.720 %   rx = 8.383 %  (funneling proxy)
+CPU / LPM      : cpu = 7.480 %   lpm = 92.520 %
+RPL control    : DIO = 583   DIS = 349   DAO = 91   parent_chg = 45
+Gossip         : tx = 1486   rx = 3530   observers = 40/41
+eta_sc         : mean = 30.5 %   min-client = 2.4 %   max-client = 51.2 %  (single-contact coverage per typical client)
+MDC            : joined_tsch = yes   contacts = 16   first_contact_ms = 1358171.9   known = 16/41 (39.0 %)
+=====
+
+===== PERIODIC REPORT at 2400.1 s =====
+TSCH joined    : 40 / 41 nodes
+Packets        : 5062 sent, 80 received (PDR = 1.58 %)
+AoI at root    : mean = 6153.5 +/- 11849.0 ms   min = 74.4   max = 48272.3 ms
+AoI per source : covered = 12/41   best_src = node 6 (1228.1 ms)   worst_src = node 9 (39348.9 ms)
+Radio (avg)    : total = 25.106 %   tx = 0.330 %   rx = 24.776 %
+Root radio     : total = 9.233 %   tx = 0.736 %   rx = 8.497 %  (funneling proxy)
+CPU / LPM      : cpu = 7.637 %   lpm = 92.363 %
+RPL control    : DIO = 598   DIS = 354   DAO = 107   parent_chg = 45
+Gossip         : tx = 1710   rx = 4152   observers = 40/41
+eta_sc         : mean = 30.5 %   min-client = 2.4 %   max-client = 51.2 %  (single-contact coverage per typical client)
+MDC            : joined_tsch = yes   contacts = 21   first_contact_ms = 1358171.9   known = 29/41 (70.7 %)
+=====
+
+===== PERIODIC REPORT at 2700.1 s =====
+TSCH joined    : 40 / 41 nodes
+Packets        : 5839 sent, 80 received (PDR = 1.37 %)
+AoI at root    : mean = 6153.5 +/- 11849.0 ms   min = 74.4   max = 48272.3 ms
+AoI per source : covered = 12/41   best_src = node 6 (1228.1 ms)   worst_src = node 9 (39348.9 ms)
+Radio (avg)    : total = 23.145 %   tx = 0.341 %   rx = 22.804 %
+Root radio     : total = 9.342 %   tx = 0.749 %   rx = 8.594 %  (funneling proxy)
+CPU / LPM      : cpu = 7.780 %   lpm = 92.220 %
+RPL control    : DIO = 653   DIS = 359   DAO = 150   parent_chg = 45
+Gossip         : tx = 1930   rx = 4769   observers = 40/41
+eta_sc         : mean = 30.5 %   min-client = 2.4 %   max-client = 51.2 %  (single-contact coverage per typical client)
+MDC            : joined_tsch = yes   contacts = 47   first_contact_ms = 1358171.9   known = 37/41 (90.2 %)
+=====
+
+===== PERIODIC REPORT at 3000.1 s =====
+TSCH joined    : 40 / 41 nodes
+Packets        : 6620 sent, 80 received (PDR = 1.21 %)
+AoI at root    : mean = 6153.5 +/- 11849.0 ms   min = 74.4   max = 48272.3 ms
+AoI per source : covered = 12/41   best_src = node 6 (1228.1 ms)   worst_src = node 9 (39348.9 ms)
+Radio (avg)    : total = 21.629 %   tx = 0.349 %   rx = 21.280 %
+Root radio     : total = 9.418 %   tx = 0.758 %   rx = 8.660 %  (funneling proxy)
+CPU / LPM      : cpu = 7.888 %   lpm = 92.161 %
+RPL control    : DIO = 689   DIS = 364   DAO = 162   parent_chg = 45
+Gossip         : tx = 2137   rx = 5356   observers = 40/41
+eta_sc         : mean = 30.5 %   min-client = 2.4 %   max-client = 51.2 %  (single-contact coverage per typical client)
+MDC            : joined_tsch = yes   contacts = 51   first_contact_ms = 1358171.9   known = 39/41 (95.1 %)
+=====
+
+===== PERIODIC REPORT at 3300.1 s =====
+TSCH joined    : 40 / 41 nodes
+Packets        : 7396 sent, 80 received (PDR = 1.08 %)
+AoI at root    : mean = 6153.5 +/- 11849.0 ms   min = 74.4   max = 48272.3 ms
+AoI per source : covered = 12/41   best_src = node 6 (1228.1 ms)   worst_src = node 9 (39348.9 ms)
+Radio (avg)    : total = 20.388 %   tx = 0.356 %   rx = 20.032 %
+Root radio     : total = 9.480 %   tx = 0.765 %   rx = 8.715 %  (funneling proxy)
+CPU / LPM      : cpu = 7.968 %   lpm = 92.075 %
+RPL control    : DIO = 707   DIS = 369   DAO = 171   parent_chg = 45
+Gossip         : tx = 2343   rx = 5920   observers = 40/41
+eta_sc         : mean = 30.5 %   min-client = 2.4 %   max-client = 51.2 %  (single-contact coverage per typical client)
+MDC            : joined_tsch = yes   contacts = 54   first_contact_ms = 1358171.9   known = 39/41 (95.1 %)
+=====
+
+===== FINAL SUMMARY at 3600.0 s =====
+TSCH joined    : 40 / 41 nodes
+Packets        : 8175 sent, 80 received (PDR = 0.98 %)
+AoI at root    : mean = 6153.5 +/- 11849.0 ms   min = 74.4   max = 48272.3 ms
+AoI per source : covered = 12/41   best_src = node 6 (1228.1 ms)   worst_src = node 9 (39348.9 ms)
+Radio (avg)    : total = 19.246 %   tx = 0.362 %   rx = 18.881 %
+Root radio     : total = 9.513 %   tx = 0.771 %   rx = 8.743 %  (funneling proxy)
+CPU / LPM      : cpu = 8.043 %   lpm = 91.997 %
+RPL control    : DIO = 745   DIS = 374   DAO = 184   parent_chg = 45
+Gossip         : tx = 2566   rx = 6523   observers = 40/41
+eta_sc         : mean = 30.5 %   min-client = 2.4 %   max-client = 51.2 %  (single-contact coverage per typical client)
+MDC            : joined_tsch = yes   contacts = 64   first_contact_ms = 1358171.9   known = 39/41 (95.1 %)
+=====
+
+DONE
+TEST OK
+Test ended at simulation time: 3600001247

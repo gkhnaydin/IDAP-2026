@@ -1,0 +1,141 @@
+ INFO [main] (Cooja.java:1316) - > Starting Cooja
+ INFO [main] (Cooja.java:2857) - External tools default settings: /external_tools_linux_64.config
+ INFO [main] (Cooja.java:2887) - External tools user settings: /home/mavialp/.cooja.user.properties
+FATAL [main] (Cooja.java:1941) - No plugin class: class org.contikios.cooja.plugins.CollectViewFull: org/jfree/data/time/RegularTimePeriod
+ INFO [main] (Simulation.java:422) - Simulation random seed: 33333
+ INFO [main] (CompileContiki.java:140) - > make border-router-server.exp5438 TARGET=exp5438 
+Message:
+Message:> make border-router-server.exp5438 TARGET=exp5438 
+Message:make: git: No such file or directory
+Message:make: 'border-router-server.exp5438' is up to date.
+ INFO [main] (CompileContiki.java:140) - > make border-router-client.exp5438 TARGET=exp5438 
+Message:
+Message:> make border-router-client.exp5438 TARGET=exp5438 
+Message:make: git: No such file or directory
+Message:make: 'border-router-client.exp5438' is up to date.
+ INFO [main] (CompileContiki.java:140) - > make border-router-collector.exp5438 TARGET=exp5438 
+Message:
+Message:> make border-router-collector.exp5438 TARGET=exp5438 
+Message:make: git: No such file or directory
+Message:make: 'border-router-collector.exp5438' is up to date.
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-server/border-router-server.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+ INFO [main] (MspMote.java:235) - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-collector/border-router-collector.exp5438
+ INFO [main] (Cooja.java:1782) - Visualized plugin was not started: class org.contikios.cooja.plugins.SimControl
+ INFO [main] (Cooja.java:1782) - Visualized plugin was not started: class org.contikios.cooja.plugins.Visualizer
+ INFO [main] (Cooja.java:1782) - Visualized plugin was not started: class org.contikios.cooja.plugins.LogListener
+ INFO [main] (Cooja.java:1782) - Visualized plugin was not started: class org.contikios.cooja.plugins.TimeLine
+ INFO [main] (Mobility.java:84) - Mobility plugin started at (ms): 0
+ INFO [main] (Mobility.java:116) - Parsing position file: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/tools/cooja/apps/mobility/mdc_random40.dat
+ INFO [main] (Mobility.java:141) - Loaded 2404 positions
+ INFO [main] (ScriptRunner.java:438) - Test script deactivated
+ INFO [main] (LogScriptEngine.java:265) - Script timeout in 7200000 ms
+ INFO [main] (ScriptRunner.java:395) - Test script activated
+ INFO [Thread-3] (Simulation.java:253) - Simulation main loop started, system time: 1784325904059
+ INFO [Thread-3] (LogScriptEngine.java:389) - Test script at 5.00%, done in 3283.7 sec
+ INFO [Thread-3] (LogScriptEngine.java:389) - Test script at 10.00%, done in 4237.0 sec
+ INFO [Thread-3] (LogScriptEngine.java:389) - Test script at 15.00%, done in 5047.4 sec
+ INFO [Thread-3] (LogScriptEngine.java:389) - Test script at 20.00%, done in 5343.0 sec
+Watchdog: illegal write to WDTCTL (0) from $10284 - reset!!!!
+Stack Trace: number of calls: 5 PC: $10284
+  watchdog_reboot (packetbuf.c) called from PC: $22b06 (elapsed: 5)
+  restart_time_synchronisation (packetbuf.c) called from PC: $153e2 (elapsed: 30447)
+  process_thread_foure_timesynch_process (local in 4emac-timesynch.c) called from PC: $121d0 (elapsed: 193441)
+  call_process (local in process.c) called from PC: $123b4 (elapsed: 193478)
+  process_run (packetbuf.c) called from PC: $05edc (elapsed: 196430)
+ WARN [Thread-3] (MspMote.java:229) - 42: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $10284 - reset!!!!
+ INFO [Thread-3] (LogScriptEngine.java:389) - Test script at 25.00%, done in 5393.5 sec
+Watchdog: illegal write to WDTCTL (0) from $10284 - reset!!!!
+Stack Trace: number of calls: 5 PC: $10284
+  watchdog_reboot (packetbuf.c) called from PC: $22b06 (elapsed: 5)
+  restart_time_synchronisation (packetbuf.c) called from PC: $153e2 (elapsed: 30465)
+  process_thread_foure_timesynch_process (local in 4emac-timesynch.c) called from PC: $121d0 (elapsed: 205697)
+  call_process (local in process.c) called from PC: $123b4 (elapsed: 205734)
+  process_run (packetbuf.c) called from PC: $05edc (elapsed: 208438)
+ WARN [Thread-3] (MspMote.java:229) - 42: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $10284 - reset!!!!
+ INFO [Thread-3] (LogScriptEngine.java:389) - Test script at 30.00%, done in 5246.5 sec
+Watchdog: illegal write to WDTCTL (0) from $10284 - reset!!!!
+Stack Trace: number of calls: 12 PC: $10284
+  watchdog_reboot (packetbuf.c) called from PC: $22b06 (elapsed: 5)
+  restart_time_synchronisation (packetbuf.c) called from PC: $148de (elapsed: 31527)
+  foure_timesynch_parent_switch_callback (packetbuf.c) called from PC: $1dc48 (elapsed: 68702)
+  rpl_set_preferred_parent (local in rpl-dag.c) called from PC: $1e020 (elapsed: 68725)
+  rpl_select_parent (packetbuf.c) called from PC: $1e04e (elapsed: 75499)
+  rpl_select_dag (packetbuf.c) called from PC: $1e900 (elapsed: 75538)
+  rpl_process_parent_event (packetbuf.c) called from PC: $1e960 (elapsed: 82565)
+  rpl_recalculate_ranks (packetbuf.c) called from PC: $20e5e (elapsed: 83585)
+  handle_periodic_timer (local in rpl-timers.c) called from PC: $11c34 (elapsed: 83848)
+  process_thread_ctimer_process (local in ctimer.c) called from PC: $121d0 (elapsed: 84073)
+  call_process (local in process.c) called from PC: $123b4 (elapsed: 84110)
+  process_run (packetbuf.c) called from PC: $05edc (elapsed: 86875)
+ WARN [Thread-3] (MspMote.java:229) - 42: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $10284 - reset!!!!
+ INFO [Thread-3] (LogScriptEngine.java:389) - Test script at 35.00%, done in 5026.4 sec
+Watchdog: illegal write to WDTCTL (0) from $10284 - reset!!!!
+Stack Trace: number of calls: 5 PC: $10284
+  watchdog_reboot (packetbuf.c) called from PC: $22b06 (elapsed: 5)
+  restart_time_synchronisation (packetbuf.c) called from PC: $153e2 (elapsed: 30452)
+  process_thread_foure_timesynch_process (local in 4emac-timesynch.c) called from PC: $121d0 (elapsed: 226719)
+  call_process (local in process.c) called from PC: $123b4 (elapsed: 226756)
+  process_run (packetbuf.c) called from PC: $05edc (elapsed: 229780)
+ WARN [Thread-3] (MspMote.java:229) - 42: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $10284 - reset!!!!
+ INFO [Thread-3] (LogScriptEngine.java:389) - Test script at 40.00%, done in 4740.9 sec
+Watchdog: illegal write to WDTCTL (0) from $10284 - reset!!!!
+Stack Trace: number of calls: 5 PC: $10284
+  watchdog_reboot (packetbuf.c) called from PC: $22b06 (elapsed: 5)
+  restart_time_synchronisation (packetbuf.c) called from PC: $153e2 (elapsed: 30452)
+  process_thread_foure_timesynch_process (local in 4emac-timesynch.c) called from PC: $121d0 (elapsed: 219771)
+  call_process (local in process.c) called from PC: $123b4 (elapsed: 219808)
+  process_run (packetbuf.c) called from PC: $05edc (elapsed: 222749)
+ WARN [Thread-3] (MspMote.java:229) - 42: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $10284 - reset!!!!
+ INFO [Thread-3] (LogScriptEngine.java:389) - Test script at 45.00%, done in 4419.2 sec
+Watchdog: illegal write to WDTCTL (0) from $10284 - reset!!!!
+Stack Trace: number of calls: 5 PC: $10284
+  watchdog_reboot (packetbuf.c) called from PC: $22b06 (elapsed: 5)
+  restart_time_synchronisation (packetbuf.c) called from PC: $153e2 (elapsed: 44436)
+  process_thread_foure_timesynch_process (local in 4emac-timesynch.c) called from PC: $121d0 (elapsed: 210097)
+  call_process (local in process.c) called from PC: $123b4 (elapsed: 210134)
+  process_run (packetbuf.c) called from PC: $05edc (elapsed: 213026)
+ WARN [Thread-3] (MspMote.java:229) - 42: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $10284 - reset!!!!
+ INFO [Thread-3] (LogScriptEngine.java:389) - Test script at 50.00%, done in 4071.4 sec
+ INFO [Thread-2] (LogScriptEngine.java:309) - Test script finished
+ INFO [Thread-3] (Simulation.java:312) - Simulation main loop stopped, system time: 1784329975548	Duration: 4071489 ms	Simulated time 3600011 ms	Ratio 0.8842001046791481
+ INFO [AWT-EventQueue-1] (ScriptRunner.java:438) - Test script deactivated

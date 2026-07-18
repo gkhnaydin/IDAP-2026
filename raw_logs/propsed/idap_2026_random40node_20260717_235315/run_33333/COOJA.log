@@ -1,0 +1,80 @@
+[01:05:00 - main] [Cooja.java:1316] [INFO] - > Starting Cooja
+[01:05:00 - main] [Cooja.java:2857] [INFO] - External tools default settings: /external_tools_linux_64.config
+[01:05:00 - main] [Cooja.java:2887] [INFO] - External tools user settings: /home/mavialp/.cooja.user.properties
+[01:05:00 - main] [Cooja.java:1941] [FATAL] - No plugin class: class org.contikios.cooja.plugins.CollectViewFull: org/jfree/data/time/RegularTimePeriod
+[01:05:00 - main] [Simulation.java:422] [INFO] - Simulation random seed: 33333
+[01:05:00 - main] [CompileContiki.java:140] [INFO] - > make border-router-server.exp5438 TARGET=exp5438 
+[01:05:00 - main] [CompileContiki.java:140] [INFO] - > make border-router-client.exp5438 TARGET=exp5438 
+[01:05:00 - main] [CompileContiki.java:140] [INFO] - > make border-router-collector.exp5438 TARGET=exp5438 
+[01:05:00 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-server/border-router-server.exp5438
+[01:05:00 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:01 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:02 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:03 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:03 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-client/border-router-client.exp5438
+[01:05:03 - main] [MspMote.java:235] [INFO] - Loading firmware from: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/examples/tsch/rpl-udp/border-router-collector/border-router-collector.exp5438
+[01:05:03 - main] [Cooja.java:1782] [INFO] - Visualized plugin was not started: class org.contikios.cooja.plugins.SimControl
+[01:05:03 - main] [Cooja.java:1782] [INFO] - Visualized plugin was not started: class org.contikios.cooja.plugins.Visualizer
+[01:05:03 - main] [Cooja.java:1782] [INFO] - Visualized plugin was not started: class org.contikios.cooja.plugins.LogListener
+[01:05:03 - main] [Cooja.java:1782] [INFO] - Visualized plugin was not started: class org.contikios.cooja.plugins.TimeLine
+[01:05:03 - main] [Mobility.java:84] [INFO] - Mobility plugin started at (ms): 0
+[01:05:03 - main] [Mobility.java:116] [INFO] - Parsing position file: /home/mavialp/Desktop/IDAP 2026 GOKHAN./IDAP 2026 GOKHAN/kodlar/proposed/6tisch-ng-sra/tools/cooja/apps/mobility/mdc_random40.dat
+[01:05:03 - main] [Mobility.java:141] [INFO] - Loaded 2404 positions
+[01:05:03 - main] [ScriptRunner.java:438] [INFO] - Test script deactivated
+[01:05:03 - main] [LogScriptEngine.java:265] [INFO] - Script timeout in 7200000 ms
+[01:05:04 - main] [ScriptRunner.java:395] [INFO] - Test script activated
+[01:05:04 - Thread-3] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1784325904059
+[01:07:56 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 5.00%, done in 3283.7 sec
+[01:12:54 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 10.00%, done in 4237.0 sec
+[01:19:54 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 15.00%, done in 5047.4 sec
+[01:27:19 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 20.00%, done in 5343.0 sec
+[01:30:40 - Thread-3] [MspMote.java:229] [WARN] - 42: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $10284 - reset!!!!
+[01:35:01 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 25.00%, done in 5393.5 sec
+[01:35:03 - Thread-3] [MspMote.java:229] [WARN] - 42: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $10284 - reset!!!!
+[01:42:32 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 30.00%, done in 5246.5 sec
+[01:48:34 - Thread-3] [MspMote.java:229] [WARN] - 42: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $10284 - reset!!!!
+[01:50:10 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 35.00%, done in 5026.4 sec
+[01:54:03 - Thread-3] [MspMote.java:229] [WARN] - 42: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $10284 - reset!!!!
+[01:57:44 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 40.00%, done in 4740.9 sec
+[02:02:02 - Thread-3] [MspMote.java:229] [WARN] - 42: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $10284 - reset!!!!
+[02:05:19 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 45.00%, done in 4419.2 sec
+[02:12:04 - Thread-3] [MspMote.java:229] [WARN] - 42: # Watchdog[EXECUTION]: illegal write to WDTCTL (0) from $10284 - reset!!!!
+[02:12:55 - Thread-3] [LogScriptEngine.java:389] [INFO] - Test script at 50.00%, done in 4071.4 sec
+[02:12:55 - Thread-2] [LogScriptEngine.java:309] [INFO] - Test script finished
+[02:12:55 - Thread-3] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1784329975548	Duration: 4071489 ms	Simulated time 3600011 ms	Ratio 0.8842001046791481
+[02:12:56 - AWT-EventQueue-1] [ScriptRunner.java:438] [INFO] - Test script deactivated
